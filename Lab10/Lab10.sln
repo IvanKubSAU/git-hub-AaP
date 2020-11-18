@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab10_1", "Lab10_1\Lab10_1.vcxproj", "{CE684474-B79C-49C1-B7D9-93B54B3BF003}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab10_2", "Lab10_2\Lab10_2.vcxproj", "{707E9E69-7871-41DB-8DC1-26C1D7E9714F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE684474-B79C-49C1-B7D9-93B54B3BF003}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CE684474-B79C-49C1-B7D9-93B54B3BF003}.Debug|Win32.Build.0 = Debug|Win32
+		{CE684474-B79C-49C1-B7D9-93B54B3BF003}.Release|Win32.ActiveCfg = Release|Win32
+		{CE684474-B79C-49C1-B7D9-93B54B3BF003}.Release|Win32.Build.0 = Release|Win32
+		{707E9E69-7871-41DB-8DC1-26C1D7E9714F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{707E9E69-7871-41DB-8DC1-26C1D7E9714F}.Debug|Win32.Build.0 = Debug|Win32
+		{707E9E69-7871-41DB-8DC1-26C1D7E9714F}.Release|Win32.ActiveCfg = Release|Win32
+		{707E9E69-7871-41DB-8DC1-26C1D7E9714F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
