@@ -28,7 +28,7 @@ void main()
 		sum += mas[i];
 	}
 
-	for (int i = 0; i < mas[i]; i++)
+	for (int i = 0; i < arraySize; i++)
 	{
 		if (mas[i] % 2 == 1)
 			mult *= mas[i];
@@ -36,4 +36,5 @@ void main()
 
 	cout << "Сумма элементов чётных по индексу = " << sum << endl;
 	cout << "Произведение нечётных элементов = " << mult << endl;
+	system("pause");
 }

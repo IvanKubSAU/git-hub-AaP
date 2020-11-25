@@ -28,4 +28,6 @@ void main()
 
 		a += da;
 	}
+	system("pause");
+
 }

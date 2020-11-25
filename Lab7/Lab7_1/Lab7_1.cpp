@@ -27,4 +27,6 @@ void main()
 	}
 
 	cout << "S = " << S << endl;
+	system("pause");
+
 }
